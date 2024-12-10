@@ -1,0 +1,7 @@
+,True Negatives,False Positives,False Negatives,True Positives
+Cluster0,114,179,13,182
+Cluster1,195,138,47,108
+Cluster2,115,116,37,220
+Cluster3,62,170,15,241
+Cluster4,126,118,39,205
+Cluster5,2,203,2,281
